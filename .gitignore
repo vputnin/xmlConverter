@@ -28,6 +28,9 @@ hs_err_pid*
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/**/compiler.xml
+.idea/**/misc.xml
+.idea/**/vcs.xml
 
 # Generated files
 .idea/
