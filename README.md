@@ -1,5 +1,5 @@
 # xml converter JAXB
-Convert XML to object.
+Convert XML to object and vice versa.
 Converter use "permutation algorithm" for String data types
 ### How to run app:
 Use JAXBXmlConverterTest.class 
