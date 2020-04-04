@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmlSheetRoot>
+    <figure>
+        <fillIndex>15</fillIndex>
+        <name>erauqs</name>
+        <space>45</space>
+    </figure>
+    <painter>
+        <averageSpeed>15</averageSpeed>
+        <brushName>derepaT</brushName>
+        <name>tenoM</name>
+    </painter>
+    <color>
+        <blue>198</blue>
+        <green>17</green>
+        <red>45</red>
+    </color>
+    <sheetHeight>80</sheetHeight>
+    <sheetWidth>25</sheetWidth>
+    <encryption>true</encryption>
+</xmlSheetRoot>
